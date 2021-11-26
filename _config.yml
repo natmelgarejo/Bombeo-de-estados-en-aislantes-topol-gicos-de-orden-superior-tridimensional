@@ -1,0 +1,5 @@
+# archivo: _config.yml
+tittle: "Libro de Bombeo de estados en aislantes topológicos de orden superior tridimensional"
+author: NMMR
+execute:
+  execute_notebooks: "off"
